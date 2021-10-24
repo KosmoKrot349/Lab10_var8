@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Lab10_var8/env/Lib/site-packages/asgiref-3.4.1.dist-info
+/Lab10_var8/app/migrations
+/Lab10_var8/env
